@@ -17,7 +17,7 @@ Additional websites developed for clients based on their individual business and
 
 **Experience:** Frontend Development • Backend Integration • SQL • Responsive Design • Debugging • Maintenance
 
-[![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](pescoe.ac.in)
+[![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://pescoe.ac.in/)
 [![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://hmg-hospital.in/)
 [![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.nord-engineers.com/)
 [![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://kawishandyashfoundation.in/)
