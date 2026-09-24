@@ -11,6 +11,13 @@ Final-year IT student & Full-Stack Developer building real-world software soluti
 - 🔧 Interested in Full-Stack Development, .NET, AI & Software Engineering
 - 📫 Reach me: anabiyashizasi@gmail.com
 
+#### 🌐 Freelance Website Projects
+
+Additional websites developed for clients based on their individual business and functional requirements.
+
+**Experience:** Frontend Development • Backend Integration • SQL • Responsive Design • Debugging • Maintenance
+
+[![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](pescoe.ac.in)
 ## 🛠️ Tech Stack
 
 ### Languages
