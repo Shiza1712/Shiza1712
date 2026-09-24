@@ -18,6 +18,10 @@ Additional websites developed for clients based on their individual business and
 **Experience:** Frontend Development • Backend Integration • SQL • Responsive Design • Debugging • Maintenance
 
 [![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](pescoe.ac.in)
+[![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://hmg-hospital.in/)
+[![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.nord-engineers.com/)
+[![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://kawishandyashfoundation.in/)
+[![View Projects](https://img.shields.io/badge/🔗%20View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://pesphyeducollege.co.in/)
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -61,18 +65,11 @@ Doctor dashboard with authentication, patient record management, prescription ge
 
 Platform connecting citizens and municipal authorities to manage water supply schedules, geo-tagged issues, leaks, shortages, and tanker supply. Integrated Ollama AI for intelligent responses and recommendations.
 
-### 🌐 Freelance Web Development
-**Full-Stack Development**
-
-Designed and developed 8+ responsive websites for clients, with experience in requirements gathering, development, testing, debugging, maintenance, and SQL optimization.
 
 ## 📊 GitHub Stats
 
 ![Anabiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
----
 
 ### 💡 What I'm Currently Working On
 
