@@ -1,6 +1,6 @@
 # Hi, I'm Anabiya Siddiqui 👋
 
-Final-year IT student & Full-Stack Developer building real-world software solutions. I work across .NET, React, Python, SQL, and modern web technologies, with 2+ years of freelance development experience. Currently exploring DSA, AI-powered applications, and scalable software systems.
+Full-Stack Developer building real-world software solutions. I work across .NET, React, Python, SQL, and modern web technologies, with 2+ years of freelance development experience. Currently exploring DSA, AI-powered applications, and scalable software systems.
 
 - 🎓 B.Tech in Information Technology @ MGM University (2024 – Present)
 - 💻 Freelance Full-Stack Developer since 2022
